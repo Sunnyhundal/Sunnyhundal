@@ -110,8 +110,3 @@ I'm interested in collaborating on:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=plastic&logo=linkedin)](https://www.linkedin.com/in/amandiph/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github)](https://github.com/Sunnyhundal)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=plastic&logo=googlechrome)](https://sunnyhundal.ca)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunnyhundal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyhundal&layout=compact&theme=radical)

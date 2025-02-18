@@ -38,7 +38,9 @@ I'm a full-stack web developer with experience in international education and qu
 ### Personal Portfolio Site
 A professional portfolio website showcasing my work as a Full Stack Developer. Built with modern web technologies, it demonstrates my skills in building performant, accessible, and SEO-optimized web applications.
 
-**Key Features:**
+<details>
+<summary>🎯 Key Features</summary>
+
 - Modern, responsive design
 - Server-side rendering with Next.js 14
 - SEO optimization with structured data
@@ -46,15 +48,21 @@ A professional portfolio website showcasing my work as a Full Stack Developer. B
 - Analytics integration with Umami
 - Contact form with reCAPTCHA protection
 - Accessibility focused
+</details>
 
-**Tech Stack:**
+<details>
+<summary>🛠️ Tech Stack</summary>
+
 - Frontend: Next.js 14, TypeScript
 - Styling: Tailwind CSS, Shadcn/ui
 - Fonts: Geist Sans & Geist Mono
 - Analytics: Umami
 - Security: reCAPTCHA
+</details>
 
-**DevOps & Deployment:**
+<details>
+<summary>🔄 DevOps & Deployment</summary>
+
 - Hosting: Hetzner Cloud
 - CI/CD: Coolify for automated deployments
 - Features:
@@ -65,14 +73,18 @@ A professional portfolio website showcasing my work as a Full Stack Developer. B
   - Automatic SSL certificate management
   - Health checks and monitoring
   - Docker containerization
+</details>
 
-**SEO Features:**
+<details>
+<summary>🔍 SEO Features</summary>
+
 - Optimized meta tags and structured data
 - XML sitemap generation
 - robots.txt configuration
 - OpenGraph and Twitter card support
 - Google Search Console integration
 - Canonical URLs and alternative language support
+</details>
 
 ### Mobile Application
 - **Tech Stack:** React Native, Supabase

@@ -112,7 +112,6 @@ I'm interested in collaborating on:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=plastic&logo=googlechrome)](https://sunnyhundal.ca)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Sunnyhundal&color=brightgreen)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunnyhundal&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnyhundal&layout=compact&theme=radical)
